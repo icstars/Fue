@@ -2,6 +2,7 @@ h1 {
   color: rgb(0, 0, 0);
   font-family: fantasy;
   font-size: 50px;
+  font-weight: bolder;
 }
 body {
   background-image: url("./assets/snow.gif");
@@ -9,14 +10,15 @@ body {
   background-size: cover;
 }
 img {
-  border-radius: 35%;
-  border-style: groove;
+  border-radius: 45%;
+  border-style: ridge;
   border-color: black;
 }
 
 p {
-  font-family: fantasy;
-  font-size: 30px;
+  font-family: Brush Script MT;
+  font-size: 35px;
   color: rgb(8, 8, 8);
   border-color: black;
+  font-weight: 600;
 }
